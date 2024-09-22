@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="ExecutionMode" value="remote" />
+		<Parameter name="LocalBrowser" value="firefox" />
+		<Parameter name="RemoteBrowser" value ="firefox"/>
+	</TestRunParameters>
+</RunSettings>

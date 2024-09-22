@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TestRunParameters>
+	<Parameter name="ExecutionMode" value="local" />
+	<Parameter name="LocalBrowser" value="chrome" />
+	<Parameter name="RemoteBrowser" value ="firefox" />
+</TestRunParameters>

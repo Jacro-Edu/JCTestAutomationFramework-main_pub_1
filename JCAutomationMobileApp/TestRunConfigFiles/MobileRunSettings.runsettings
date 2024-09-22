@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="MobileAppRemoteUrl" value="http://127.0.0.1:4723/wd/hub" />
+		<Parameter name="MobileWebRemoteUrl" value="http://127.0.0.1:4723/wd/hub" />
+		<Parameter name="DevicePlatformName" value="android" />
+		<Parameter name="DevicePlatformVersion" value="13.0" />
+		<Parameter name="DeviceName" value="Pixel_5_API_33" />
+		<Parameter name="DeviceName" value="Pixel_5_API_33" />
+
+	</TestRunParameters>
+</RunSettings>
